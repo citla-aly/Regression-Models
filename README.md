@@ -1,3 +1,3 @@
 # Regression-Models
 
-Frequency modeling
+Análisis exploratorio
